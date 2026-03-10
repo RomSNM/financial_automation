@@ -97,9 +97,9 @@ Then open your browser:
 Example:
 
     date,description,category,type,amount
-    2024-01-01,Groceries,Food,expense-50
+    2024-01-01,Groceries,Food,expense,-50
     2024-01-02,Salary,Income,3000
-    2024-01-03,Internet,Bills,expense-80
+    2024-01-03,Internet,Bills,expense,-80
 
 ------------------------------------------------------------------------
 
